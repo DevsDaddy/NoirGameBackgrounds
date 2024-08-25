@@ -4,6 +4,8 @@
 ## About
 **A bit of sad backstory**. The graphics were developed a long time ago - I wanted to use it to create my own game in the detective genre, for which I wrote a lot of code, script, created a lot of different resources. Now - all these resources are just lying idle and I will be glad if on the basis of them you can create the coolest game.
 
+[See game characters from these series here](https://github.com/DevsDaddy/NoirGameCharacters/).
+
 **About licensing:**
 **All resources can be used absolutely free of charge without attribution. Thank you for your support!**
 
