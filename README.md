@@ -28,6 +28,41 @@
 ![High Quality Free 4K Noir Game Backgrounds in 2D by DevsDaddy](https://github.com/user-attachments/assets/206ae755-6822-46be-b645-1985fbf1addf)
 ![High Quality Free 4K Noir Game Backgrounds in 2D by DevsDaddy](https://github.com/user-attachments/assets/f391fa89-92ca-4113-accd-f2e236f97912)
 
+**List of Locations and Bonus Files Inside:**
+- Emergency Hall;
+- Bathroom;
+- Damadged House Outside;
+- Hero House Outside;
+- Institute Outside;
+- Hero House Hall;
+- Outside location with Dumpster;
+- Dark Outside Location with smoking people;
+- Institute Hall;
+- Institute Second Hall;
+- Institute Second Hall after Explosion;
+- Security Room;
+- Newspaper Room;
+- Institute Corridor;
+- Institute Second Corridor;
+- Institute Third Corridor;
+- Institute Street;
+- Basic Noir Room;
+- Kitchen Place;
+- Elevator Secret Exit;
+- Office Outside Main;
+- Office Hall;
+- Office Manager Room;
+- Office Corridor;
+- Office Second Corridor with Dead Body;
+- Office Secret Corridor;
+- Street;
+- Bedroom with workplace;
+- Elevator;
+- Locker and Locker Inventory (2 Bonus Files);
+- Taxi Bonus Scene;
+- 3 Mini Games (Bonus Files);
+- Box Inventory (Bonus File);
+
 
 ## Join Community
 - <a href="https://discord.gg/xuNTKRDebx">Discord Community</a>
